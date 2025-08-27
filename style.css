@@ -465,10 +465,16 @@ body {
         font-size: clamp(1rem, 4vw, 1.2rem);
     }
 
-    .hero-cta-buttons, .cta-container {
+    .hero-cta-buttons {
         flex-direction: column;
         gap: 15px;
     }
+    
+    . cta-container {
+      flex-direction: column;
+        gap: 15px;
+    }
+
 
     .services-container, .about-content, .contact-container {
         flex-direction: column;
