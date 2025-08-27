@@ -152,7 +152,7 @@ body {
     opacity: 0.9;
 }
 
-.hero-cta-buttons {
+.hero-cta-buttons cta-container {
     display: flex;
     justify-content: center;
     gap: 20px;
