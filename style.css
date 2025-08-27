@@ -152,7 +152,7 @@ body {
     opacity: 0.9;
 }
 
-.hero-cta-buttons cta-container {
+.hero-cta-buttons {
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -465,7 +465,7 @@ body {
         font-size: clamp(1rem, 4vw, 1.2rem);
     }
 
-    .hero-cta-buttons {
+    .hero-cta-buttons, .cta-container {
         flex-direction: column;
         gap: 15px;
     }
