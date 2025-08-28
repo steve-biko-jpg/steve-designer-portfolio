@@ -465,7 +465,7 @@ body {
     .hamburger {
         display: flex;
     }
-    
+
     .hero-hook {
         font-size: clamp(2rem, 8vw, 3rem);
     }
@@ -482,7 +482,7 @@ body {
         flex-direction: column;
         gap: 30px;
     }
-    
+
     .services-container {
         gap: 20px;
     }
